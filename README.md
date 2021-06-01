@@ -53,7 +53,6 @@ align-items: center;
 justify-content: center;
 margin-bottom: 100px
 ">
-  <img src="./assets/demo.gif" width="200" style="margin: 1rem" />
   <img src="./assets/dark_mode-&-toggle_coin.gif" width="200" style="margin: 1rem" />
 </div>
 
